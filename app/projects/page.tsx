@@ -14,7 +14,7 @@ const projectData = [
     alt: "ticket management system",
   },
   {
-    image: "/work/interview.webp",
+    image: "/work/interview.jpg",
     category: "full stack",
     name: "Interview Management System",
     description: "Lorem ipsum dolar sit amet consectetur adipisicing",
