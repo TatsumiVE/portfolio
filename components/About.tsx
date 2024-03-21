@@ -19,7 +19,7 @@ const infoData = [
   },
   {
     icon: <PhoneCall size={20} />,
-    text: "+95 09 445 540 073",
+    text: "+959 445 540 073",
   },
   {
     icon: <MailIcon size={20} />,
@@ -102,7 +102,7 @@ const About = () => {
           <div className="hidden xl:flex flex-1 relative">
             <ProfileImage
               containerStyles="bg-about_shape_light dark:bg-about_shape_dark w-[505px] h-[505px] bg-no-repeat relative"
-              imgSrc="/hero/yehtutkyaw.png"
+              imgSrc="/about/yehtutkyaw.png"
             ></ProfileImage>
           </div>
           <div className="flex-1">
