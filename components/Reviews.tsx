@@ -11,35 +11,29 @@ const reviewsData = [
     name: "Wai Yan Phyo",
     job: "Senior Frontend Developer",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, doloribus.",
+      "Working with Ye Htut Kyaw as a frontend React developer was seamless; their expertise and problem-solving skills consistently surpassed expectations, making them invaluable to any project.",
   },
   {
     avatar: "/reviews/thantsinhtun.png",
     name: "Thant Sin Htun",
     job: "Senior Mobile Developer",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, doloribus.",
+      "Working with Ye Htut Kyaw was a pleasure! Their expertise in web development, creative problem-solving, and seamless communication make them invaluable for any project",
   },
-  {
-    avatar: "/reviews/kaungset.png",
-    name: "Kaung Set",
-    job: "Web Developer",
-    review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, doloribus.",
-  },
+
   {
     avatar: "/reviews/khinkhinhlaing.png",
     name: "Khin Khin Hlaing",
     job: "Ruby Khin Co-Founder",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, doloribus.",
+      "I couldn't be happier with my decision to choose Website Enterprise for my new website. Their team was easy to work with and helped me create a RubyKhin website in a short amount of time.",
   },
   {
     avatar: "/reviews/zayarnaing.png",
     name: "Zayar Naing",
     job: "Web Developer",
     review:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, doloribus.",
+      "Working with Ye Htut Kyaw was an absolute pleasure! Their unmatched expertise in web development, creative problem-solving, and seamless communication make them an invaluable asset to any project.",
   },
 ];
 const Reviews = () => {

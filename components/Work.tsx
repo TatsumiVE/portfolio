@@ -14,7 +14,8 @@ const projectData = [
     image: "/work/ticket.webp",
     category: "full stack",
     name: "Ticket Management System",
-    description: "Lorem ipsum dolar sit amet consectetur adipisicing",
+    description:
+      "This project involves developing a Ticket Management System using Laravel and React, with Material UI integration.",
     link: "/",
     github: "/",
   },
@@ -22,7 +23,8 @@ const projectData = [
     image: "/work/interview.jpg",
     category: "full stack",
     name: "Interview Management System",
-    description: "Lorem ipsum dolar sit amet consectetur adipisicing",
+    description:
+      "This project involves developing a Inerview Management System using Laravel and React, with Material UI integration.",
     link: "/",
     github: "/",
   },
@@ -30,7 +32,8 @@ const projectData = [
     image: "/work/2.png",
     category: "react js",
     name: "Hotel Landing Page",
-    description: "Lorem ipsum dolar sit amet consectetur adipisicing",
+    description:
+      "This project involves developing a Hotel Landing Page using  React, with Shadcn intergration",
     link: "/",
     github: "/",
   },
@@ -38,7 +41,8 @@ const projectData = [
     image: "/work/4.png",
     category: "express js",
     name: "Hospital Appointment System",
-    description: "Lorem ipsum dolar sit amet consectetur adipisicing",
+    description:
+      "This project involves developing a Hospital Appointment System for API using Express JS",
     link: "/",
     github: "/",
   },

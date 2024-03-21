@@ -13,19 +13,19 @@ const servicesData = [
     icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
     title: "Web Design",
     description:
-      "Transform your online  presence with our premium web design services. Our skilled team creates visually captivating and highly functional websites, ensuring your brand stands out in the digital landscape. Elevate your online identity with our expertise in crafting user-centric and web experiences",
+      "Revitalize your online presence with our premium web design services. Stand out in the digital realm with visually captivating and highly functional websites crafted by our skilled team",
   },
   {
     icon: <Blocks size={72} strokeWidth={0.8} />,
     title: "Web Development",
     description:
-      "Transform your digital presence with our comprehensive web development services. From dynamic and responsive website design to seamless e-commerce solutions, we specialize in crafting tailored online experiences that elevate your brand and engage your audience effectively",
+      "Elevate your online presence with our premium web design services, crafting visually captivating and highly functional websites that ensure your brand stands out in the digital landscape.",
   },
   {
     icon: <Gem size={72} strokeWidth={0.8} />,
     title: "Mentor",
     description:
-      "Accelerate your React skills with personalized mentorship tailored to your learning journey. Our experienced team of mentors is dedicated to guiding you through the intricacies of React development, providing hands-on support to help you master the art of building dynamic and efficient web applications.",
+      "Level up your React skills with personalized mentorship tailored to your learning journey, guided by experienced mentors dedicated to your success",
   },
 ];
 const Services = () => {
