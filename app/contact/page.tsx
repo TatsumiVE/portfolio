@@ -22,7 +22,7 @@ const Conatct = () => {
           <div className="hidden xl:flex w-full bg-contact_illustration_light dark:bg-contact_illustration_dark bg-contain bg-top bg-no-repeat"></div>
         </div>
 
-        <div className="grid xl:grid-cols-2 xl:mb-28">
+        <div className="grid xl:grid-cols-2 xl:mb-24 mb-8">
           <div className="flex flex-col gap-y-4 xl:gap-y-14 mb-12 xl:mb-24 text-base xl:text-lg">
             <div className="flex items-center gap-x-8">
               <MailIcon size={18} className="text-primary" />
