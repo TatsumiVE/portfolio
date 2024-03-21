@@ -15,7 +15,7 @@ const projectData = [
     category: "full stack",
     name: "Ticket Management System",
     description:
-      "This project involves developing a Ticket Management System using Laravel and React, with Material UI integration.",
+      "Developed a Ticket Management System using Laravel and React, with Material UI integration.",
     link: "/",
     github: "/",
   },
@@ -24,7 +24,7 @@ const projectData = [
     category: "full stack",
     name: "Interview Management System",
     description:
-      "This project involves developing a Inerview Management System using Laravel and React, with Material UI integration.",
+      "Developed a Inerview Management System using Laravel and React, with Material UI integration.",
     link: "/",
     github: "/",
   },
@@ -33,7 +33,7 @@ const projectData = [
     category: "react js",
     name: "Hotel Landing Page",
     description:
-      "This project involves developing a Hotel Landing Page using  React, with Shadcn intergration",
+      "Developed a Hotel Landing Page using  React, with Shadcn intergration",
     link: "/",
     github: "/",
   },
@@ -42,7 +42,7 @@ const projectData = [
     category: "express js",
     name: "Hospital Appointment System",
     description:
-      "This project involves developing a Hospital Appointment System for API using Express JS",
+      "Developed a Hospital Appointment System for API using Express JS",
     link: "/",
     github: "/",
   },

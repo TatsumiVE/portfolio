@@ -30,8 +30,8 @@ const infoData = [
     text: "Born on 14 July, 2000",
   },
   {
-    icon: <GraduationCap size={20} />,
-    text: "Computer Science Taungoo, Myanamr",
+    icon: <GraduationCap size={23} />,
+    text: "Bachelor of Computer Science",
   },
   {
     icon: <HomeIcon size={20} />,

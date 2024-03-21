@@ -29,7 +29,7 @@ const projectData = [
     category: "react js",
     name: "Hotel Landing Page",
     description:
-      "This project involves developing a Hotel Landing Page using  React, with Shadcn intergration",
+      "This project involves developing a Hotel Landing Single Page using  React, Next Js and Typescript with Shadcn intergration",
     link: "/",
     github: "/",
     alt: "hotel landing",
